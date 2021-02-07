@@ -15,6 +15,6 @@
 
 配合他使用自建网盘 然后起飞~
 
-<a href="https://dn3.freedownloadmanager.org/6/latest/fdm_x64_setup.exe" target="_blank">官网下载</a>
+<a href="https://www.freedownloadmanager.org/zh/download.htm" target="_blank">官网下载页面</a>
 
 <a href="https://www.freedownloadmanager.org/zh/" target="_blank">官方网站</a>
